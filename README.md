@@ -1,12 +1,12 @@
-# A teachers' guide to using Raspberry Pi in the classroom
+# Un guide enseignant pour l'utilisation du Raspberry Pi en classe
 
 ![](cover.png)
 
-If you are looking to use Raspberry Pis in your classroom, then there are a number of ways you can do this outlined in this guide. Some solutions repurpose existing classroom kit in order to minimise further expense.
+Si vous cherchez à vous en servir des Raspberry Pis en classe, ce guide vous présente plusieurs façons de l'envisager. Certaines solutions repensent l'utilisation de l'équipement existant afin de réduire les éventuels frais.
 
-## Getting started with Raspberry Pi
+## Démarrer avec le Raspberry Pi
 
-It is recommended that you first read [this guide to learn how to set up a standalone Raspberry Pi](getting-started-guide.md) for the first time, if you are new to using the device, before reading on.
+Si vous ne connaissez pas déjà l'outil, avant de continuer la lecture, il vous est conseillé de commencer par [ce guide qui apprend simplement à mettre en place un Raspberry Pi](getting-started-guide.md) pour la première fois.
 
 One way to use Raspberry Pi in the classroom is as a standalone device that students can use outside of the school network to create programs and electronic projects, without fear of breaking expensive equipment or taking down an entire school network. It is an environment that allows for the freedom of failure, and it is through failing that students learn. If a file system becomes corrupted then it's okay, as you can always start again with a fresh SD card image. If you blow an LED, it doesn't matter.
 
