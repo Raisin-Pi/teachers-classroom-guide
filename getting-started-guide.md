@@ -32,7 +32,7 @@ Vous pouvez acheter un kit à partir du magasin Swag Raspberry Pi pour vous aide
 
 - Connection internet
 	- Pour mettre à jour ou télécharger le logiciel, nous vous recommandons de connecter votre Raspberry Pi à internet via un câble Ethernet ou un adaptateur WiFi.
-	- If you have a WiFi adaptor see our [WiFi setup guide here](http://www.raspberrypi.org/documentation/configuration/wireless/README.md).
+	- Si vous avez un adaptateur WiFi, consulter notre [guide d'installation WiFi  ici](http://www.raspberrypi.org/documentation/configuration/wireless/README.md).
 
 - Sound
 	- Headphones, earphones or speakers with a 3.5mm jack will work with your Raspberry Pi.
