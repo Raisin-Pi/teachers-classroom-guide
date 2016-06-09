@@ -58,9 +58,9 @@ Hourra, Raspbian est chargé, votre Raspberry Pi est en marche ... et maintenant
 1. Pour charger l'interface graphique, tapez `startx` et appuyez sur **Enter** sur votre clavier.
 	
 	
-## What next?
+## Et ensuite ?
 
-If you are new to using Linux, then you may wish to learn a little about how to use commands to navigate around your Raspberry Pi, create files, and run applications using simple text.
+Si vous êtes novice dans l'utilisation de Linux, alors vous voudrez peut-être savoir comment utiliser les commandes pour naviguer dans votre Raspberry Pi, créer des fichiers, et exécuter des applications en utilisant du simple texte.
 
-Then it's time to get learning or making using our [Raspberry Pi Learning Resources here](http://www.raspberrypi.org/resources/).
+Alors, c'est le moment pour apprendre ou fabriquer en utilisant nos [Ressources éducatives Raspberry Pi ici](http://www.raspberrypi.org/resources/).
 
