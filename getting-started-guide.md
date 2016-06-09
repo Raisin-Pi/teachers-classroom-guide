@@ -44,7 +44,7 @@ Maintenant, vous avez toutes les pièces dont vous avez besoin pour commencer, n
 
 1. Commencez par insérer votre carte SD dans la fente pour carte SD sur le Raspberry Pi, dans le bon sens. * Notez que le logiciel NOOBS devrait déjà être sur cette carte. S'il ne l'est pas, suivez le [guide NOOBS  ici](http://www.raspberrypi.org/help/noobs-setup/).*
 1. Ensuite, branchez votre clavier et une souris USB dans les ports USB sur le Raspberry Pi. Assurez-vous que votre moniteur ou votre téléviseur soit allumé, et que vous avez sélectionné la bonne entrée (par exemple 1 HDMI, DVI, etc).
-1. Then connect your HDMI cable from your Raspberry Pi to your monitor or TV.
+1. Ensuite, connectez le câble HDMI de votre Raspberry Pi à votre moniteur ou téléviseur.
 1. If you intend to connect your Raspberry Pi to the internet, plug in an Ethernet cable into the Ethernet port next to the USB ports; if you do not need an internet connection, skip this step.
 1. Finally, when you are happy that you have plugged in all the cables and SD card required, plug in the micro USB power supply. This action will turn on and boot your Raspberry Pi.
 1. If this is the first time your Raspberry Pi and NOOBS SD card have been used, then you will have to select an operating system and configure it. [Follow the NOOBS guide to do this](http://www.raspberrypi.org/help/noobs-setup/).
