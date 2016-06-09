@@ -8,13 +8,13 @@ Avant de commencer, vérifiez que vous avez toutes les pièces dont vous avez be
 
 ### Elements requis :
 
-- A Raspberry Pi (Either a [Model B](http://www.raspberrypi.org/product/model-b/) or [Model B+](http://www.raspberrypi.org/product/model-b-plus/))
+- Un Raspberry Pi (soit un [Model B](http://www.raspberrypi.org/product/model-b/) ou un  [Model B+](http://www.raspberrypi.org/product/model-b-plus/))
 
 	![](images/Raspberry-Pis.jpg)
 
-- SD Card
-	- We recommend an 8GB class 4 SD card, ideally preinstalled with NOOBS. 
-	- You can [buy a card with NOOBS pre-installed](http://swag.raspberrypi.org/collections/frontpage/products/noobs-8gb-sd-card), or you can download it for free from our [downloads page](http://www.raspberrypi.org/downloads/).
+- Carte SD
+	- Nous recommandons une carte SD de 8GB class 4, avec idéalement NOOBS préinstallé. 
+	- Vous pouvez [acheter une carte avec NOOBS préinstallé](http://swag.raspberrypi.org/collections/frontpage/products/noobs-8gb-sd-card), ou vous pouvez le télécharger gratuitement depuis [notre page de téléchargement](http://www.raspberrypi.org/downloads/).
 	
 - Display and connecting cables
 	- Any HDMI/DVI monitor or TV should work as a display for the Pi. 
