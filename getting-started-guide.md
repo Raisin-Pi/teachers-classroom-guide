@@ -16,9 +16,9 @@ Avant de commencer, vérifiez que vous avez toutes les pièces dont vous avez be
 	- Nous recommandons une carte SD de 8GB class 4, avec idéalement NOOBS préinstallé. 
 	- Vous pouvez [acheter une carte avec NOOBS préinstallé](http://swag.raspberrypi.org/collections/frontpage/products/noobs-8gb-sd-card), ou vous pouvez le télécharger gratuitement depuis [notre page de téléchargement](http://www.raspberrypi.org/downloads/).
 	
-- Display and connecting cables
-	- Any HDMI/DVI monitor or TV should work as a display for the Pi. 
-	- For best results, use one with HDMI input, but other connections are available for older devices. 
+- Affichage et connectique :
+	- Tout moniteur HDMI/DVI ou TV devrait fonctionner comme écran pour le Pi. 
+	- Pour un meilleur rendu, utilisez en un avec une entrée HDMI, mais d'autres connexions sont possibles pour les anciens écrans. 
 	
 - Keyboard and mouse
 	- Any standard USB keyboard and mouse will work with your Raspberry Pi.
