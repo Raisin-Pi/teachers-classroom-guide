@@ -1,4 +1,4 @@
-# Getting started with Raspberry Pi
+# Commencer avec le Raspberry Pi
 
 You've got a Raspberry Pi, congratulations! I'm sure that you are bursting with excitement to get going to create your own projects. Then what are you waiting for? Follow all the steps below.
 
