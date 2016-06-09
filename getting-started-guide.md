@@ -1,6 +1,6 @@
 # Débuter avec le Raspberry Pi
 
-You've got a Raspberry Pi, congratulations! I'm sure that you are bursting with excitement to get going to create your own projects. Then what are you waiting for? Follow all the steps below.
+Vous avez un Raspberry Pi, félicitations! Je suis sûr que vous brûler d'envie de commencer à créer vos propres projets. Alors qu'attendez vous ? Suivez toutes les étapes ci-dessous.
 
 ## Step 1: Make sure you have everything you need
 
