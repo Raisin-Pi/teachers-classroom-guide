@@ -49,9 +49,9 @@ Maintenant, vous avez toutes les pièces dont vous avez besoin pour commencer, n
 1. Enfin, quand vous êtes heureux d'avoir branché la carte SD et tous les câbles  nécessaires, branchez l'alimentation micro-USB. Cette action allumera et démarrera votre Raspberry Pi.
 1. Si c'est la première fois que votre Raspberry Pi et NOOBS sont utilisés, vous devez sélectionner un système d'exploitation et le configurer. [Suivez le guide NOOBS pour cela](http://www.raspberrypi.org/help/noobs-setup/).
 
-## Step 3: Logging into your Raspberry Pi
+## Etape 3: Connexion à votre Raspberry Pi
 
-Hurrah, Raspbian has loaded, your Raspberry Pi is up and running... now what? Let's log in to find out:
+Hourra, Raspbian est chargé, votre Raspberry Pi est en marche ... et maintenant? Nous allons ouvrir une session pour le découvrir:
 
 1. Once your Raspberry Pi has completed the boot process, a login prompt will appear. The default login for Raspbian is username `pi` with the password `raspberry`. Note you will not see any writing appear when you type the password. This is a security feature in Linux.
 1. After you have successfully logged in, you will see the command line prompt `pi@raspberrypi~$`.
