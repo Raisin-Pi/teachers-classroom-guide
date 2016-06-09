@@ -2,11 +2,11 @@
 
 Vous avez un Raspberry Pi, félicitations! Je suis sûr que vous brûler d'envie de commencer à créer vos propres projets. Alors qu'attendez vous ? Suivez toutes les étapes ci-dessous.
 
-## Step 1: Make sure you have everything you need
+## Etape 1: Assurez-vous que vous avez tout ce dont vous avez besoin
 
-Before you begin, check that you have all the parts that you need:
+Avant de commencer, vérifiez que vous avez toutes les pièces dont vous avez besoin:
 
-### Required items:
+### Elements requis :
 
 - A Raspberry Pi (Either a [Model B](http://www.raspberrypi.org/product/model-b/) or [Model B+](http://www.raspberrypi.org/product/model-b-plus/))
 
