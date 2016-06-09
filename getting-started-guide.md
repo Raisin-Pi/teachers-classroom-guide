@@ -20,7 +20,7 @@ Avant de commencer, vérifiez que vous avez toutes les pièces dont vous avez be
 	- Tout moniteur HDMI/DVI ou TV devrait fonctionner comme écran pour le Pi. 
 	- Pour un meilleur rendu, utilisez en un avec une entrée HDMI, mais d'autres connexions sont possibles pour les anciens écrans. 
 	
-- Keyboard and mouse
+- Clavier et souris
 	- Any standard USB keyboard and mouse will work with your Raspberry Pi.
 	
 - Power supply
