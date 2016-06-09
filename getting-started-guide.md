@@ -28,17 +28,17 @@ Avant de commencer, vérifiez que vous avez toutes les pièces dont vous avez be
 
 Vous pouvez acheter un kit à partir du magasin Swag Raspberry Pi pour vous aidez à démarrer [ici](http://swag.raspberrypi.org/collections/frontpage/products/b-raspberry-pi-starter-kit).
 
-### Not essential but helpful to have:
+### Pas indispensable mais utile à avoir:
 
 - Connection internet
 	- Pour mettre à jour ou télécharger le logiciel, nous vous recommandons de connecter votre Raspberry Pi à internet via un câble Ethernet ou un adaptateur WiFi.
 	- Si vous avez un adaptateur WiFi, consulter notre [guide d'installation WiFi  ici](http://www.raspberrypi.org/documentation/configuration/wireless/README.md).
 
-- Sound
-	- Headphones, earphones or speakers with a 3.5mm jack will work with your Raspberry Pi.
+- Son
+	- Casques, écouteurs ou haut-parleurs avec un jack 3,5 mm fonctionnent avec votre Raspberry Pi.
 
 	
-## Step 2: Plugging in your Raspberry Pi
+## Etape 2: Connectez votre Raspberry Pi
 
 Now you have all the parts you need to get up and running, let's start plugging in!
 
