@@ -42,7 +42,7 @@ Vous pouvez acheter un kit à partir du magasin Swag Raspberry Pi pour vous aide
 
 Maintenant, vous avez toutes les pièces dont vous avez besoin pour commencer, nous allons commencer à assembler !
 
-1. Begin by slotting your SD card into the SD card slot on the Raspberry Pi, which will only fit one way. *Note that the software NOOBS should already be on this card. If it isn't then follow the [NOOBS guide here](http://www.raspberrypi.org/help/noobs-setup/).*
+1. Commencez par insérer votre carte SD dans la fente pour carte SD sur le Raspberry Pi, dans le bon sens. * Notez que le logiciel NOOBS devrait déjà être sur cette carte. S'il ne l'est pas, suivez le [guide NOOBS  ici](http://www.raspberrypi.org/help/noobs-setup/).*
 1. Next, plug in your USB keyboard and mouse into the USB slots on the Raspberry Pi.
 Make sure that your monitor or TV is turned on, and that you have selected the right input (e.g. HDMI 1, DVI, etc).
 1. Then connect your HDMI cable from your Raspberry Pi to your monitor or TV.
