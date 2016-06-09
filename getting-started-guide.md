@@ -30,8 +30,8 @@ Vous pouvez acheter un kit à partir du magasin Swag Raspberry Pi pour vous aide
 
 ### Not essential but helpful to have:
 
-- Internet connection
-	- To update or download software, we recommend that you connect your Raspberry Pi to the internet either via an Ethernet cable or a WiFi adaptor.
+- Connection internet
+	- Pour mettre à jour ou télécharger le logiciel, nous vous recommandons de connecter votre Raspberry Pi à internet via un câble Ethernet ou un adaptateur WiFi.
 	- If you have a WiFi adaptor see our [WiFi setup guide here](http://www.raspberrypi.org/documentation/configuration/wireless/README.md).
 
 - Sound
