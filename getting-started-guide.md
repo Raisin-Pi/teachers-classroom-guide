@@ -53,9 +53,9 @@ Maintenant, vous avez toutes les pièces dont vous avez besoin pour commencer, n
 
 Hourra, Raspbian est chargé, votre Raspberry Pi est en marche ... et maintenant? Nous allons ouvrir une session pour le découvrir:
 
-1. Once your Raspberry Pi has completed the boot process, a login prompt will appear. The default login for Raspbian is username `pi` with the password `raspberry`. Note you will not see any writing appear when you type the password. This is a security feature in Linux.
-1. After you have successfully logged in, you will see the command line prompt `pi@raspberrypi~$`.
-1. To load the graphical user interface, type `startx` and press **Enter** on your keyboard.
+1. Une fois que votre Raspberry Pi a terminé le processus de démarrage, une invite de connexion apparaît. La connexion par défaut pour Raspbian est le nom d'utilisateur `pi` avec le mot de passe `raspberry`. Notez que vous ne verrez pas les caractères apparaître lorsque vous tapez le mot de passe. Ceci est une caractéristique de sécurité dans Linux.
+1. Après s'être connecté avec succès, vous verrez l'invite de ligne de commande `pi@raspberrypi~$`.
+1. Pour charger l'interface graphique, tapez `startx` et appuyez sur **Enter** sur votre clavier.
 	
 	
 ## What next?
