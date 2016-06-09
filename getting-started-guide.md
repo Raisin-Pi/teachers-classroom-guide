@@ -21,12 +21,12 @@ Avant de commencer, vérifiez que vous avez toutes les pièces dont vous avez be
 	- Pour un meilleur rendu, utilisez en un avec une entrée HDMI, mais d'autres connexions sont possibles pour les anciens écrans. 
 	
 - Clavier et souris
-	- Any standard USB keyboard and mouse will work with your Raspberry Pi.
+	- Tout clavier et souris USB standard fonctionnera avec votre Raspberry Pi.
 	
-- Power supply
-	- Use a [5V micro USB power supply](http://swag.raspberrypi.org/collections/pi-kits/products/raspberry-pi-universal-power-supply) to power your Raspberry Pi. Be careful that whatever power supply you use outputs at least 5V; insufficient power will cause your Pi to behave unexpectedly.
+- Alimentation
+	- Utilisez [une alimentation de 5V micro USB](http://swag.raspberrypi.org/collections/pi-kits/products/raspberry-pi-universal-power-supply) pour votre Raspberry Pi. Veillez à ce que quel que soit l'alimentation que vous utilisez, les sorties soient au moins de 5V.; une puissance insuffisante entraînera un disfonctionnement de votre Pi.
 
-You can purchase a kit from the Raspberry Pi Swag Store to help get started [here](http://swag.raspberrypi.org/collections/frontpage/products/b-raspberry-pi-starter-kit).
+Vous pouvez acheter un kit à partir du magasin Swag Raspberry Pi pour vous aidez à démarrer [ici](http://swag.raspberrypi.org/collections/frontpage/products/b-raspberry-pi-starter-kit).
 
 ### Not essential but helpful to have:
 
