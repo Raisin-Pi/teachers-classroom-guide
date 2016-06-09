@@ -40,7 +40,7 @@ Vous pouvez acheter un kit à partir du magasin Swag Raspberry Pi pour vous aide
 	
 ## Etape 2: Connectez votre Raspberry Pi
 
-Now you have all the parts you need to get up and running, let's start plugging in!
+Maintenant, vous avez toutes les pièces dont vous avez besoin pour commencer, nous allons commencer à assembler !
 
 1. Begin by slotting your SD card into the SD card slot on the Raspberry Pi, which will only fit one way. *Note that the software NOOBS should already be on this card. If it isn't then follow the [NOOBS guide here](http://www.raspberrypi.org/help/noobs-setup/).*
 1. Next, plug in your USB keyboard and mouse into the USB slots on the Raspberry Pi.
