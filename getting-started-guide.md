@@ -47,7 +47,7 @@ Maintenant, vous avez toutes les pièces dont vous avez besoin pour commencer, n
 1. Ensuite, connectez le câble HDMI de votre Raspberry Pi à votre moniteur ou téléviseur.
 1. Si vous avez l'intention de connecter votre Raspberry Pi à Internet, branchez un câble Ethernet dans le port Ethernet à côté des ports USB; si vous n'avez pas besoin d'une connexion Internet, ignorez cette étape.
 1. Enfin, quand vous êtes heureux d'avoir branché la carte SD et tous les câbles  nécessaires, branchez l'alimentation micro-USB. Cette action allumera et démarrera votre Raspberry Pi.
-1. If this is the first time your Raspberry Pi and NOOBS SD card have been used, then you will have to select an operating system and configure it. [Follow the NOOBS guide to do this](http://www.raspberrypi.org/help/noobs-setup/).
+1. Si c'est la première fois que votre Raspberry Pi et NOOBS sont utilisés, vous devez sélectionner un système d'exploitation et le configurer. [Suivez le guide NOOBS pour cela](http://www.raspberrypi.org/help/noobs-setup/).
 
 ## Step 3: Logging into your Raspberry Pi
 
