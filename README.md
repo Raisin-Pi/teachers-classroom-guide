@@ -33,7 +33,7 @@ Une autre caractéristique intéressante du Raspberry Pi dans l'enseignement est
 ### Accessoires en option
 
 - Un [Hubs USB](http://thepihut.com/products/7-port-usb-hub-for-the-raspberry-pi) peut être utilisé pour alimenter plus d'un Raspberry Pi et fournir des ports USB supplémentaires.
-- An SD card duplicator to copy SD card images to multiple cards. These are handy for making a class set. Unfortunately, they cost £500 or more.
+- Un duplicateur de carte SD pour copier des images de la carte SD sur plusieurs cartes. C'est utile pour faire un kit pour la classe. Malheureusement, ils coûtent 500 £ ou plus.
 
 ## Monitor solutions
 
