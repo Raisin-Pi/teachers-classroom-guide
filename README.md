@@ -35,7 +35,7 @@ Une autre caractéristique intéressante du Raspberry Pi dans l'enseignement est
 - Un [Hubs USB](http://thepihut.com/products/7-port-usb-hub-for-the-raspberry-pi) peut être utilisé pour alimenter plus d'un Raspberry Pi et fournir des ports USB supplémentaires.
 - Un duplicateur de carte SD pour copier des images de la carte SD sur plusieurs cartes. C'est utile pour faire un kit pour la classe. Malheureusement, ils coûtent 500 £ ou plus.
 
-## Monitor solutions
+## Solutions pour moniteur
 
 You could use existing school monitors with Raspberry Pis. You will need to check the cables to see if they have the correct connectors for the Pi.
 
