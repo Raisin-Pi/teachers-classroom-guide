@@ -20,9 +20,9 @@ Une autre caractéristique intéressante du Raspberry Pi dans l'enseignement est
 
 - Plusieurs Raspberry Pi; un ou deux peuvent servir aux travaux des élèves. Un [Model B](https://www.raspberrypi.org/products/model-b/), [Model B+](https://www.raspberrypi.org/products/model-b-plus/) ou un [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) conviendra pour cet exercice.
 - Suffisament de [cartes SD (Model B) ou de cartes microSD ](http://swag.raspberrypi.org/collections/frontpage/products/noobs-8gb-sd-card) (Model B+ et Pi 2) pour chaque Pi.
-- USB keyboards and mice for each Pi.
-- [Micro USB power supply](http://swag.raspberrypi.org/collections/pi-kits/products/raspberry-pi-universal-power-supply) for each Pi.
-- HDMI cable to connect to a monitor for each Pi (see Monitor Solutions below).
+- Claviers et souris USB pour chaque Pi.
+- [Alimentation Micro USB](http://swag.raspberrypi.org/collections/pi-kits/products/raspberry-pi-universal-power-supply) pour chaque Pi.
+- Des câbles HDMI pour se connecter à un moniteur pour chaque Pi (voir les solutions pour moniteur  ci-dessous).
 - A monitor for each Pi.
 
 ### Further items you will need for a networked class set of Raspberry Pis
