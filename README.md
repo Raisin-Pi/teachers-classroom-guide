@@ -30,9 +30,9 @@ Une autre caractéristique intéressante du Raspberry Pi dans l'enseignement est
 - Une connection par câbles Ethernet
 - Ou un dongle WiFi (comme celui-ci](http://thepihut.com/products/usb-wifi-adapter-for-the-raspberry-pi) de [The Pi Hut](http://thepihut.com/))
 
-### Optional extras
+### Accessoires en option
 
-- [USB Hubs](http://thepihut.com/products/7-port-usb-hub-for-the-raspberry-pi) can be used to power more than one Raspberry Pi and provides extra USB slots.
+- Un [Hubs USB](http://thepihut.com/products/7-port-usb-hub-for-the-raspberry-pi) peut être utilisé pour alimenter plus d'un Raspberry Pi et fournir des ports USB supplémentaires.
 - An SD card duplicator to copy SD card images to multiple cards. These are handy for making a class set. Unfortunately, they cost £500 or more.
 
 ## Monitor solutions
