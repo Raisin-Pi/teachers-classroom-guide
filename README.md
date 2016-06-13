@@ -12,11 +12,11 @@ Une des utilisations du Raspberry Pi dans la salle de classe est comme périphé
 
 Une autre caractéristique intéressante du Raspberry Pi dans l'enseignement est qu'il intrigue, et les élèves posent des questions sur le matériel. Pourquoi est-ce un ordinateur? Comment fonctionne-t-il ? Quels sont les périphériques d'entrée et de sortie? Où stocke-t-il son logiciel? etc.
 
-## Hardware required
+## Matériel nécessaire
 
 ![](images/Raspberry-Pis.jpg)
 
-### What you will need for a standalone class set of Raspberry Pis
+### De quoi aurez-vous besoin pour un parc autonome de Raspberry Pi pour la classe ?
 
 - A number of Raspberry Pis; one between two can work depending on the work students are doing. Either [Model B](https://www.raspberrypi.org/products/model-b/), [Model B+](https://www.raspberrypi.org/products/model-b-plus/) or [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) will be fine for this exercise.
 - Enough [SD Cards (Model B) or microSD Cards](http://swag.raspberrypi.org/collections/frontpage/products/noobs-8gb-sd-card) (Model B+ and Pi 2) for each Pi.
