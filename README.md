@@ -23,12 +23,12 @@ Une autre caractéristique intéressante du Raspberry Pi dans l'enseignement est
 - Claviers et souris USB pour chaque Pi.
 - [Alimentation Micro USB](http://swag.raspberrypi.org/collections/pi-kits/products/raspberry-pi-universal-power-supply) pour chaque Pi.
 - Des câbles HDMI pour se connecter à un moniteur pour chaque Pi (voir les solutions pour moniteur  ci-dessous).
-- A monitor for each Pi.
+- Un moniteur pour chaque Pi.
 
-### Further items you will need for a networked class set of Raspberry Pis
+### D'autres éléments dont vous aurez besoin pour un ensemble de classe Raspberry Pi en réseau.
 
-- Ethernet cable connection
-- Or a WiFi dongle (like [this one](http://thepihut.com/products/usb-wifi-adapter-for-the-raspberry-pi) from [The Pi Hut](http://thepihut.com/))
+- Une connection par câbles Ethernet
+- Ou un dongle WiFi (comme celui-ci](http://thepihut.com/products/usb-wifi-adapter-for-the-raspberry-pi) de [The Pi Hut](http://thepihut.com/))
 
 ### Optional extras
 
