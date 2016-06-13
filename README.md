@@ -18,8 +18,8 @@ Une autre caractéristique intéressante du Raspberry Pi dans l'enseignement est
 
 ### De quoi aurez-vous besoin pour un parc autonome de Raspberry Pi pour la classe ?
 
-- Plusieurs Raspberry Pi; un ou deux peuvent servir aux travaux des élèves. Que ce soit un [Model B](https://www.raspberrypi.org/products/model-b/), [Model B+](https://www.raspberrypi.org/products/model-b-plus/) or [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) will be fine for this exercise.
-- Enough [SD Cards (Model B) or microSD Cards](http://swag.raspberrypi.org/collections/frontpage/products/noobs-8gb-sd-card) (Model B+ and Pi 2) for each Pi.
+- Plusieurs Raspberry Pi; un ou deux peuvent servir aux travaux des élèves. Un [Model B](https://www.raspberrypi.org/products/model-b/), [Model B+](https://www.raspberrypi.org/products/model-b-plus/) ou un [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) conviendra pour cet exercice.
+- Suffisament de [cartes SD (Model B) ou de cartes microSD ](http://swag.raspberrypi.org/collections/frontpage/products/noobs-8gb-sd-card) (Model B+ et Pi 2) pour chaque Pi.
 - USB keyboards and mice for each Pi.
 - [Micro USB power supply](http://swag.raspberrypi.org/collections/pi-kits/products/raspberry-pi-universal-power-supply) for each Pi.
 - HDMI cable to connect to a monitor for each Pi (see Monitor Solutions below).
