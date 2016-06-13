@@ -10,7 +10,7 @@ Si vous ne connaissez pas déjà l'outil, avant de continuer la lecture, il vous
 
 Une des utilisations du Raspberry Pi dans la salle de classe est comme périphérique autonome que les élèves peuvent utiliser en dehors du réseau scolaire pour créer des programmes et des projets électroniques, sans crainte de casser du matériel coûteux ou de faire sauter un réseau scolaire. C'est un environnement qui permet la liberté de l'échec, et c'est en échouant que les élèves apprennent. Si un fichier système est endommagé, vous pouvez toujours recommencer avec une nouvelle image de la carte SD. Si vous cassé une LED, cela n'a pas d'importance.
 
-Another appealing feature of the Raspberry Pi in education is that it looks interesting, and students ask questions about the hardware. How is it a computer? How does it work? What are input and output devices? Where does it store its software? and so on.
+Une autre caractéristique intéressante du Raspberry Pi dans l'enseignement est qu'il intrigue, et les élèves posent des questions sur le matériel. Pourquoi est-ce un ordinateur? Comment fonctionne-t-il ? Quels sont les périphériques d'entrée et de sortie? Où stocke-t-il son logiciel? etc.
 
 ## Hardware required
 
