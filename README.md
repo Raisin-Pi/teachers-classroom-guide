@@ -2,13 +2,13 @@
 
 ![](cover.png)
 
-Si vous cherchez à vous en servir des Raspberry Pis en classe, ce guide vous présente plusieurs façons de l'envisager. Certaines solutions repensent l'utilisation de l'équipement existant afin de réduire les éventuels frais.
+Si vous cherchez à vous servir des Raspberry Pis en classe, ce guide vous présente plusieurs façons de l'envisager. Certaines solutions repensent l'utilisation de l'équipement existant afin de réduire les éventuels frais.
 
 ## Démarrer avec le Raspberry Pi
 
 Si vous ne connaissez pas déjà l'outil, avant de continuer la lecture, il vous est conseillé de commencer par [ce guide qui apprend simplement à mettre en place un Raspberry Pi](getting-started-guide.md) pour la première fois.
 
-One way to use Raspberry Pi in the classroom is as a standalone device that students can use outside of the school network to create programs and electronic projects, without fear of breaking expensive equipment or taking down an entire school network. It is an environment that allows for the freedom of failure, and it is through failing that students learn. If a file system becomes corrupted then it's okay, as you can always start again with a fresh SD card image. If you blow an LED, it doesn't matter.
+Une des utilisations du Raspberry Pi dans la salle de classe est comme périphérique autonome que les élèves peuvent utiliser en dehors du réseau scolaire pour créer des programmes et des projets électroniques, sans crainte de casser du matériel coûteux ou de faire sauter un réseau scolaire. C'est un environnement qui permet la liberté de l'échec, et c'est en échouant que les élèves apprennent. Si un fichier système est endommagé, vous pouvez toujours recommencer avec une nouvelle image de la carte SD. Si vous cassé une LED, cela n'a pas d'importance.
 
 Another appealing feature of the Raspberry Pi in education is that it looks interesting, and students ask questions about the hardware. How is it a computer? How does it work? What are input and output devices? Where does it store its software? and so on.
 
