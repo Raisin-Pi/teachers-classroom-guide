@@ -1,12 +1,12 @@
-# Remote desktop to a Raspberry Pi through your web browser 
+# Contrôle à distance d'un Raspberry Pi via votre navigateur web 
 
-This guide is a slight variant on using remote desktop, such as VNC, to connect to a Raspberry Pi. 
+Ce guide est une légère variante de l'utilisation de bureau à distance, tels que VNC, pour se connecter à un Raspberry Pi. 
 
-The basic premise is to use another computer as the input console for the Raspberry Pi without needing to get a separate screen, keyboard, and mouse on the Pi. This is ideal if, for example, you've got a room full of laptops, Chromebooks or iMacs.
+Le principe de base est d'utiliser un autre ordinateur que la console d'entrée pour le Raspberry Pi sans avoir besoin d'un écran, d'un clavier et d'une souris connecté au Pi. C'est l'idéal si, par exemple, vous avez une salle pleine d'ordinateurs portables, Chromebooks ou iMacs.
 
-This differs from the previous method in that you don't need to install any software on the host computer/laptop. You can set the Raspberry Pi up so that it provides everything the host computer needs through the web browser. It makes it as easy as typing an address in.
+Cela diffère de la méthode précédente en ce que vous ne devez pas installer un logiciel sur l'ordinateur hôte / ordinateur portable. Vous pouvez régler le Raspberry Pi afin qu'il fournisse tout ce dont l'ordinateur hôte a besoin via le navigateur web. Cela devient aussi facile que de taper une adresse.
 
-Here is an example of the end product on Windows / IE:
+Voici un exemple du produit final sur Windows / IE:
 
 ![](images/vnc_ie.png)
 
