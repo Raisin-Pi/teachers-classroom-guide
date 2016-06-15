@@ -70,9 +70,9 @@ PINET est un système libre qui centralise les comptes d'utilisateurs et le stoc
 
 L'utilisation du Raspberry Pi dans une salle de classe peut également offrir différentes méthodes d'enseignement et d'apprentissage. Il ouvre la possibilité de voir l'informatique plus comme une activité créative et constructive. L'informatique peut être un sujet véritablement transdisciplinaire dans l'art, la science et la technologie. Le Raspberry Pi peut offrir plus que vous ne l'imaginez dans l'éducation.
 
-- [What does a good computing classroom look like? By Clive Beale](http://www.raspberrypi.org/what-does-a-good-computing-classroom-look-like)
+- [A quoi ressemble une bonne classe d'informatique ? par Clive Beale](http://www.raspberrypi.org/what-does-a-good-computing-classroom-look-like)
 
-## Teaching resources
+## Ressources pédagogiques
 
 With qualified teachers among our staff we are producing teaching materials, including full schemes of work that are cross-curricular, engaging, and satisfy the curriculum. They are published under a Creative Commons licence so that teachers can use them however they see fit.
 
