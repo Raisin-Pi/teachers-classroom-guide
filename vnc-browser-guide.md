@@ -123,7 +123,7 @@ Tout d'abord, nous aurons besoin d'installer un logiciel de plus sur le Pi. Nous
 
 1. Appuyez sur "Ctrl" et "O" suivie par "Entrer" pour sauver, puis "Ctrl" et "X" pour quitter. Le Raspberry Pi va maintenant avoir une adresse statique `10.0.0.1`.
 
-1. Ensuite configurez `dnsmasq` (that you installed earlier) to give out IP addresses. We are going to explicitly specify a configuration file for the `dnsmasq` service, so let’s first make a backup of the default config file and then save our one in its place:
+1. Ensuite configurez `dnsmasq` (Que vous avez installé précédemment) pour donner des adresses IP. Nous allons créér un fichier de configuration pour le service `dnsmasq`, donc nous allons faire d'abord une sauvegarde du fichier de configuration par défaut puis enregistrez le notre à sa place:
 
 	```
 	cd /etc
@@ -131,7 +131,7 @@ Tout d'abord, nous aurons besoin d'installer un logiciel de plus sur le Pi. Nous
 	sudo nano dnsmasq.conf
 	```
 
-1. You should now be editing a blank file. Type the following into it:
+1. Vous devriez maintenant être en train d'éditer un fichier vide. Tapez la commande suivante en elle:
 
 	```
 	interface=eth0
@@ -140,11 +140,11 @@ Tout d'abord, nous aurons besoin d'installer un logiciel de plus sur le Pi. Nous
 	dhcp-option=6,10.0.0.1
 	```
 
-	The first line tells `dnsmasq` to listen for DHCP requests on the Ethernet port of the Pi. The second line is specifying the range of IP addresses that can be given out. The third and fourth lines tell the host computer what its default gateway and DNS server settings are.
+	La première ligne dit à `dnsmasq` d'écouter les demandes DHCP sur le port Ethernet du Pi. La deuxième ligne spécifie la plage d'adresses IP qui peuvent être donnés. Les troisième et quatrième lignes indiquent à l'ordinateur hôte les paramètres de la passerelle par défaut et du serveur DNS.
 
-1. Next make a small edit to the hosts file. This will allow the user to type in 'pi' into the browser instead of `10.0.0.1`. Enter the following to edit the hosts file: `sudo nano /etc/hosts`.
+1. Ensuite, faire une petite modification du fichier hosts. Cela permettra à l'utilisateur de taper 'pi' dans le navigateur au lieu de `10.0.0.1`.Entrez ce qui suit pour modifier le fichier hosts: `sudo nano /etc/hosts`.
 
-1. Find the line that says `127.0.0.1		raspberrypi` and add the following line:
+1. Trouvez la ligne qui dit `127.0.0.1		raspberrypi` et ajoutez la ligne suivante:
 
 	`10.0.0.1		pi`
 
