@@ -23,13 +23,13 @@ Installez le logiciel VNC Server sur Pi et le logiciel de VNC Viewer sur l'ordin
 
 ## Étape 2: Installez un client VNC sur un ordinateur
 
-1. Now, on your computer, install and run the VNC client:
+1. Maintenant, sur votre ordinateur, installez et exécutez le client VNC:
 
-  - On a Linux machine install the package `xtightvncviewer`:
+  - Sur une machine Linux, installez le paquet `xtightvncviewer`:
 
     `sudo apt-get install xtightvncviewer`
 
-  - Otherwise, TightVNC is downloadable from [tightvnc.com](http://www.tightvnc.com/download.php)
+  - Sinon, TightVNC est téléchargeable à partir de [tightvnc.com](http://www.tightvnc.com/download.php)
 
 
 
