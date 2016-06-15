@@ -32,7 +32,6 @@ Installez le logiciel VNC Server sur Pi et le logiciel de VNC Viewer sur l'ordin
   - Sinon, TightVNC est téléchargeable à partir de [tightvnc.com](http://www.tightvnc.com/download.php)
 
 
-
 ## Étape 3: Si nécessaire, configurer le Pi pour lui donner une adresse IP
 
 Ceci est la méthode que vous utiliserez si votre administrateur réseau refuse de permettre à un Raspberry Pi d'être connecté au réseau principal de l'école. Ainsi, chaque Raspberry Pi sera connecter directement à un ordinateur hôte en utilisant un seul câble Ethernet, permettant ainsi un réseau complètement isolé de point à point entre les deux. 
@@ -63,9 +62,9 @@ Tout d'abord, nous aurons besoin d'installer un logiciel sur le Pi, donc pour ce
   netmask 255.255.255.0
   ```
   
-1. Press **Ctrl** and **X** followed by **Y** then **Enter** to save and quit out of nano. The Raspberry Pi will now have a static address of `10.0.0.1`.
+1. Pressez **Ctrl** et **X** suivi de **O** puis **Enter** pour enregistrer et sortir de nano. Le Raspberry Pi va maintenant avoir une adresse statique comme `10.0.0.1`.
 
-## Step 4: Configure **dnsmasq** to give out IP addresses
+## Etape 4: Configurer **dnsmasq** pour donner des adresses IP
 
 To do this first make a backup of the default config file and then save my one in its place:
 
