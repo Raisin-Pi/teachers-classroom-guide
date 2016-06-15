@@ -62,15 +62,15 @@ Tout d'abord, nous aurons besoin d'installer un logiciel sur le Pi, donc pour ce
   netmask 255.255.255.0
   ```
   
-1. Pressez **Ctrl** et **X** suivi de **O** puis **Enter** pour enregistrer et sortir de nano. Le Raspberry Pi va maintenant avoir une adresse statique comme `10.0.0.1`.
+1. Pressez **Ctrl** et **X** suivi de **O** puis **Entrer** pour enregistrer et sortir de nano. Le Raspberry Pi va maintenant avoir une adresse statique comme `10.0.0.1`.
 
 ## Etape 4: Configurer **dnsmasq** pour donner des adresses IP
 
-To do this first make a backup of the default config file and then save my one in its place:
+Tout d'abord, faire une sauvegarde du fichier de configuration par défaut puis sauver la mienne à sa place:
 
-1. Type `cd /etc` on the command line to change directories then press **Enter**. 
-1. Next type `sudo mv dnsmasq.conf dnsmasq.default` and press **Enter**.
-1. Then type `sudo nano dnsmasq.conf` and press **Enter**. You should now be editing a blank file. Type the following into it:
+1. Tapez `cd /etc` en ligne de commande pour changer de répertoire, puis appuyez sur **Entrer**. 
+1. Ensuite tapez `sudo mv dnsmasq.conf dnsmasq.default` et appuyer sur **Entrer**.
+1. Puis tapez `sudo nano dnsmasq.conf` et appuyer sur **Entrer**. Vous devriez maintenant être en train de modifier un fichier vide. Tapez la commande suivante en elle:
 
   ```
   interface=eth0
