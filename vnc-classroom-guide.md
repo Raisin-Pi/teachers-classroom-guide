@@ -41,19 +41,19 @@ Ceci est la méthode que vous utiliserez si votre administrateur réseau refuse 
 
 Tout d'abord, nous aurons besoin d'installer un logiciel sur le Pi, donc pour cette première partie, vous aurez besoin de le connecter à un réseau local pour l'accès à Internet. Nous allons donner au port Ethernet le même comportement qu'un routeur domestique. Cela signifie l'attribution d'une adresse IP statique et l'installation d'un service DHCP ( `dnsmasq`) qui répondra aux demandes d'adresse de l'ordinateur hôte. 
 
-1. From the command line or an LXTerminal window type:
+1. En ligne de commande ou d'une fenêtre LXTerminal, tapez:
 
   ```
   sudo apt-get update
   sudo apt-get install dnsmasq
   ```
   
-1. It’s a good idea to use an IP address range that is very different to your main network, so let’s use 10.0.0.X. To configure this we must edit the network interfaces file. Enter the following command:
+1. C'est une bonne idée d'utiliser une plage d'adresses IP qui est très différente de votre réseau principal, donc nous allons utiliser 10.0.0.X. Pour configurer cela, il faut modifier le fichier d'interface réseau. Entrez la commande suivante:
 
   ```
   sudo nano /etc/network/interfaces
   ```
-1. Find the line `iface eth0 inet dhcp` and add a hash symbol at the start of the line to disable it. Then add the other four lines shown below:
+1. Trouvez la ligne `iface eth0 inet dhcp` et ajoutez un symbole dièse au début de la ligne pour la désactiver. Puis ajoutez les quatre autres lignes indiquées ci-dessous:
 
   ```
   # iface eth0 inet dhcp
