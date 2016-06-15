@@ -79,11 +79,11 @@ Avec des professeurs qualifiés parmi notre personnel, nous produisons des outil
 - [Enseigner - Ressources pédagogiques Raspberry Pi](http://www.raspberrypi.org/resources/teach/)
 - Un excellent moyen commencer est notre [Leçon de prise en main](http://www.raspberrypi.org/learning/getting-started-with-raspberry-pi-lesson/)
 
-## Training
+## Formation
 
-Here at the Raspberry Pi Foundation we offer FREE CPD for teachers as the Raspberry Pi Academy or Picademy for short. To find out more click on the links below:
+Ici, à la Fondation Raspberry Pi nous offrons depuis peu de temps des formations GRATUITES pour les enseignants à l'Académie Raspberry Pi ou Picademie. Pour en savoir plus, cliquez sur les liens ci-dessous:
 
-- [Picademy Page](http://www.raspberrypi.org/picademy)
+- [Picademy](http://www.raspberrypi.org/picademy)
 
 ## Asking the community
 
