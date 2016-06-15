@@ -63,8 +63,8 @@ Vous ou vos administrateurs réseau peuvent intégrer le Raspberry Pi de façon 
 ### PiNet
 PINET est un système libre qui centralise les comptes d'utilisateurs et le stockage de fichiers pour les salles de classe Raspberry Pi. Avec elle, tous les Raspberry Pi se connecte à un serveur central et tout étudiant peut s'asseoir à tout Raspberry Pi dans la salle de classe et se connecter. Il a été conçu pour être incroyablement simple à installer et à utiliser pour les enseignants. Plus de détails peuvent être trouvés sur le site [PiNet](http://pinet.org.uk/).   
 
-## Managing a class set
-- [How to make a class set of SD cards](class-sd-cards.md)
+## Gestion d'un set pour la classe
+- [Comment faire un jeu de cartes SD pour la classe ](class-sd-cards.md)
 
 ## Cross-curricular opportunities
 
