@@ -15,7 +15,7 @@ Installez le logiciel VNC Server sur Pi et le logiciel de VNC Viewer sur l'ordin
   tightvncserver
   ```
 
-1. Start a VNC server from the terminal. This example starts a session on VNC display zero (```:0```) with full HD resolution:
+1. Démarrez un serveur VNC à partir du terminal. Cet exemple démarre une session sur l'affichage VNC zéro (```:0```) avec une résolution Full HD:
 
   ```
   vncserver :0 -geometry 1024x768 -depth 24
