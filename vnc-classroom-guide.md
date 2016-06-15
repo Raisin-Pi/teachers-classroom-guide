@@ -39,7 +39,7 @@ Ceci est la méthode que vous utiliserez si votre administrateur réseau refuse 
 
 *Remarque: vous n'avez pas besoin d'un câble croisé pour cela; un câble standard fonctionnera parce que le port Ethernet du Pi auto-commute les broches transmission et réception.*
 
-Firstly we'll need to install some software on the Pi, so for this first part you'll need to connect it to a LAN for internet access. We’re going to make the Pi Ethernet port behave in a similar way to a home router. This means assigning a static IP address to it and installing a DHCP service (`dnsmasq`) that will respond to address requests from the host computer. 
+Tout d'abord, nous aurons besoin d'installer un logiciel sur le Pi, donc pour cette première partie, vous aurez besoin de le connecter à un réseau local pour l'accès à Internet. Nous allons donner au port Ethernet le même comportement qu'un routeur domestique. Cela signifie l'attribution d'une adresse IP statique et l'installation d'un service DHCP ( `dnsmasq`) qui répondra aux demandes d'adresse de l'ordinateur hôte. 
 
 1. From the command line or an LXTerminal window type:
 
