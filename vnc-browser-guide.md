@@ -148,20 +148,20 @@ Tout d'abord, nous aurons besoin d'installer un logiciel de plus sur le Pi. Nous
 
 	`10.0.0.1		pi`
 
-1. Press **Ctrl** and **O** followed by **Enter** to save, then **Ctrl** and **X** to quit editing. Next, disconnect the Pi from the LAN and reboot by typing `sudo reboot`.
+1. Appuyez sur "Ctrl" et "O" suivie par "Entrer" pour sauver, puis "Ctrl" et "X" pour quitter. Ensuite, débranchez le Pi du réseau local et redémarrez en tapant `sudo reboot`.
 
-1. You can go ahead and plug in the single Ethernet cable directly from the Pi to the host computer.
-The host computer should then be given an IP address which will be 10.0.0.X, where X is a random number between 2 and 250.
+1. Vous pouvez continuer et branchez le câble Ethernet directement du Pi à l'ordinateur hôte.
+L'ordinateur hôte doit alors donner une adresse IP qui sera 10.0.0.x, où X est un nombre aléatoire entre 2 et 250.
 
-One thing to try is to open up a command prompt on the host computer (a terminal on OSX and Linux), and enter the following command:
+Essayer d'ouvrir une invite de commande sur l'ordinateur hôte (un terminal sur OSX et Linux), et entrez la commande suivante:
 
 ```
 ping 10.0.0.1
 ```
 
-If you see `reply, reply, reply` then it's working. If you see request timed out, then something is wrong and you'll need to go back and double-check everything.
+Si vous voyez `reply, reply, reply` alors ça fonctionne. Si vous voyez request time out, alors quelque chose ne va pas et vous aurez besoin de revenir en arrière et tout revérifier.
 
-You should now be able to open up a web browser on the host computer and enter `pi` into the address bar to get to the VNC client page. 
+Vous devriez maintenant être en mesure d'ouvrir un navigateur Web sur l'ordinateur hôte et entrez `pi` dans la barre d'adresse pour accéder à la page de client VNC. 
 
 *Note: Windows users:* This may not work properly on Windows (you'll still need to use `10.0.0.1`), but if you install a package called `winbind` you'll be able to type the Raspberry Pi hostname into the browser. Usually the hostname is `raspberrypi`. The `winbind` package can be installed with the command below:
 
