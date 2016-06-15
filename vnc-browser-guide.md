@@ -47,7 +47,7 @@ Ce système fonctionne sur tous les navigateurs web compatible HTML5, notamment 
 	sudo cp vnc_auto.html index.html
 	```
 
-1. Next we need to set everything to start automatically, since you're probably going to want to use the Raspberry Pi in headless mode (without a keyboard, mouse or monitor). To do this we just need to download a few scripts for `init.d`. Enter the following commands:
+1. Ensuite, nous devons tout régler pour démarrer automatiquement, puisque vous allez probablement vouloir utiliser le Raspberry Pi en mode sans tête (sans clavier, souris ou moniteur). Pour ce faire, nous avons besoin de télécharger quelques scripts pour `init.d`. Entrez les commandes suivantes:
 
 	```
 	cd /etc/init.d/
@@ -55,24 +55,24 @@ Ce système fonctionne sur tous les navigateurs web compatible HTML5, notamment 
 	sudo nano vncboot
 	```
 
-	*Note the line that says `-geometry 1280x800`. This sets the screen resolution for the remote desktop, so you may wish to alter this to suit the screen size of the host computer. Ideally this should be set slightly lower to avoid having scrollbars.*
+	*Notez la ligne qui dit `-geometry 1280x800` . Ceci définit la résolution de l'écran pour le bureau à distance, de sorte que vous pouvez le modifier en fonction de la taille de l'écran de l'ordinateur hôte. Idéalement, cela devrait être réglé légèrement inférieur pour éviter d'avoir des barres de défilement.*
 
-1. Press **Ctrl** and **O** followed by **Enter** to save, then **Ctrl** and **X** to quit editing.
+1. Appuyez sur "Ctrl" et "O" suivie par "Entrer" pour sauver, puis "Ctrl" et "X" pour quitter.
 
-1. The script you have just created basically makes VNC part of the background services that Linux is controlling. We next need to register the script. Enter the following commands:
+1. Le script que vous venez de créer fait de VNC une partie des services d'arrière-plan que Linux contrôle. Nous avons ensuite besoin d'enregistrer le script. Entrez les commandes suivantes:
 
 	```
 	sudo chmod 755 vncboot
 	sudo update-rc.d vncboot defaults
 	```
 
-	Ignore any messages about missing LSB tags and overrides. That's the server part done. Next we need to setup a similar script for the HTML5 client.
+	Ignorez les messages sur les balises LSB manquantes et continuez. La partie serveur est faite. Ensuite, nous devons mettre en place un script similaire pour le client HTML5.
 
-## Step 2: Setting up the client
+## Étape 2: Configuration du client
 
-With the server side completed, you now need to download a similar script for the HTML5 client.
+Avec le côté serveur terminée, vous devez maintenant télécharger un script similaire pour le client HTML5.
 
-1. Enter the following command:
+1. Entrez la commande suivante:
 
 	```
 	sudo wget https://raw.githubusercontent.com/raspberrypilearning/teachers-classroom-guide/master/vncproxy --no-check-certificate
