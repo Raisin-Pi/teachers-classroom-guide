@@ -2,13 +2,14 @@
 
 ## Etape 1: Configurer et installer VNC server sur Raspberry Pi
 
-Install the VNC server software on Pi and the VNC viewer software on the host computer (which will show the Pi desktop).
-1. On your Raspberry Pi install the TightVNC package:
+Installez le logiciel VNC Server sur Pi et le logiciel de VNC Viewer sur l'ordinateur hôte (qui montrera le bureau Pi).
+
+1. Sur votre Raspberry Pi installer le package TightVNC:
 
   ```
   sudo apt-get install tightvncserver
   ```
-1. Next, run TightVNC Server which will prompt you to enter a password and an optional view-only password:
+1. Ensuite, exécutez TightVNC Server qui vous invite à entrer un mot de passe et une option de visualisation du mot de passe:
 
   ```
   tightvncserver
