@@ -121,9 +121,9 @@ Tout d'abord, nous aurons besoin d'installer un logiciel de plus sur le Pi. Nous
 	netmask 255.255.255.0
 	```
 
-1. Press **Ctrl** and **O** followed by **Enter** to save, then **Ctrl** and **X** to quit editing. The Raspberry Pi will now have a static address of `10.0.0.1`.
+1. Appuyez sur "Ctrl" et "O" suivie par "Entrer" pour sauver, puis "Ctrl" et "X" pour quitter. Le Raspberry Pi va maintenant avoir une adresse statique `10.0.0.1`.
 
-1. Next configure `dnsmasq` (that you installed earlier) to give out IP addresses. We are going to explicitly specify a configuration file for the `dnsmasq` service, so let’s first make a backup of the default config file and then save our one in its place:
+1. Ensuite configurez `dnsmasq` (that you installed earlier) to give out IP addresses. We are going to explicitly specify a configuration file for the `dnsmasq` service, so let’s first make a backup of the default config file and then save our one in its place:
 
 	```
 	cd /etc
