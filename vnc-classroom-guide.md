@@ -33,7 +33,7 @@ Installez le logiciel VNC Server sur Pi et le logiciel de VNC Viewer sur l'ordin
 
 
 
-## Step 3: If necessary, configure the Pi to give out an IP address
+## Étape 3: Si nécessaire, configurer le Pi pour lui donner une adresse IP
 
 This is the method you'll want to use if your network administrator refuses to allow a Raspberry Pi to be connected to the main school network. This way each Raspberry Pi will be directly connecting to a host computer using a single Ethernet cable, thus making a completely isolated point-to-point network between the two. 
 
