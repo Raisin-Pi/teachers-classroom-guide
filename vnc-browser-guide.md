@@ -78,40 +78,40 @@ Avec le côté serveur terminée, vous devez maintenant télécharger un script 
 	sudo wget https://raw.githubusercontent.com/raspberrypilearning/teachers-classroom-guide/master/vncproxy --no-check-certificate
 	```
 
-1. Then register this script with Linux by typing:
+1. Enregistrer ce script avec Linux en tapant:
 
 	```
 	sudo chmod 755 vncproxy 
 	sudo update-rc.d vncproxy defaults 98
 	```
 	
-	Ignore any messages about missing LSB tags and overrides.
+	Ignorez les messages sur les balises LSB manquantes et continuez.
 
-1. Now reboot your Raspberry Pi by typing `sudo reboot` and both services will start up automatically. When the Pi has rebooted, you should now be able to enter the IP address of the Raspberry Pi into the web browser of the host computer. You will be prompted for the password that you specified when setting up the VNC server.
+1. Maintenant, redémarrez votre Raspberry Pi en tapant `sudo reboot` et les services démarreront automatiquement. Lorsque le Pi a redémarré, vous devriez maintenant être en mesure d'entrer l'adresse IP du Raspberry Pi dans le navigateur Web de l'ordinateur hôte. Vous serez invité à entrer le mot de passe que vous avez spécifié lors de la configuration du serveur VNC.
 
-	*Note: an error has occasionally been observed on the first time that you try to connect; this is possibly caused by the proxy starting before the VNC server socket is open. If you see this the top bar goes red. Just hit refresh (F5), enter the password again and it should work.*
+	*Note: une erreur a parfois été observée sur la première fois que vous essayez de vous connecter; cela peut-être causé par le proxy qui démarre avant que le socket serveur VNC soit ouvert. Si vous voyez ceci la barre supérieure devient rouge. Rafraîchisser juste en appuyant sur (F5), entrez le mot de passe à nouveau et cela devrait fonctionner.*
 
-## Step 3: Master and slave mode
+## Étape 3: Mode maître et esclave
 
-There is another trick you can do here if you want to refine the setup further. 
+Il y a un autre truc que vous pouvez faire ici si vous souhaitez affiner la configuration par la suite. 
 
-Using the following instructions, each Raspberry Pi will be directly connecting to the host computer using a single Ethernet cable, thus making a completely isolated point-to-point network between the two; this way, your network administrators shouldn't have any cause to complain. Note that you don't need a crossover cable for this; a standard cable will work, because the Pi Ethernet port auto-switches the transmit and receive pins.
+En utilisant les instructions suivantes, chaque Raspberry Pi sera directement connecté à l'ordinateur hôte à l'aide d'un seul câble Ethernet, permettant ainsi un réseau complètement isolé de point à point entre les deux; De cette façon, vos administrateurs réseau ne devraient pas avoir à se plaindre. Notez que vous n'avez pas besoin d'un câble croisé pour cela; un câble standard fonctionnera, parce que le port Ethernet du Pi auto-commute les broches transmission et réception.
 
-Firstly we'll need to install some more software on the Pi. We’re going to make the Pi Ethernet port behave in a similar way to a home router. This means assigning a static IP address to it and installing a DHCP service (dnsmasq) that will respond to address requests from the host computer.
+Tout d'abord, nous aurons besoin d'installer un logiciel de plus sur le Pi. Nous allons rendre le port Ethernet Pi similaire à un routeur domestique. Cela signifie l'attribution d'une adresse IP statique et l'installation d'un service DHCP (dnsmasq) qui répondra aux demandes d'adresse de l'ordinateur hôte.
 
-1. Enter these commands:
+1. Entrez les commandes suivantes:
 
 	```
 	sudo apt-get install dnsmasq -y
 	```
 
-1. It’s a good idea to use an IP address range that is very different to your main network, so let’s use `10.0.0.X`. To configure this we must edit the network interfaces file. Enter the following command:
+1. C'est une bonne idée d'utiliser une plage d'adresses IP qui est très différent de votre réseau principal, donc nous allons utiliser `10.0.0.X`. Pour configurer cela, il faut modifier le fichier d'interface de réseau. Entrez la commande suivante:
 
 	```
 	sudo nano /etc/network/interfaces
 	```
 
-1. Find the following line `iface eth0 inet dhcp`, add a hash symbol at the start of the line to disable it, and then add the other four lines shown below.
+1. Trouvez la ligne suivante `iface eth0 inet dhcp`, ajouter un symbole dièze au début de la ligne pour la désactiver, puis ajouter les quatre lignes indiquées ci-dessous.
 
 	```
 	# iface eth0 inet dhcp
