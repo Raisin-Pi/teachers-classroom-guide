@@ -51,7 +51,7 @@ Vous pouvez utiliser les moniteurs de l'école avec le Raspberry Pi. Vous aurez 
 
   ![](images/Vga-cable.jpg)
 
-## Networked solutions
+## Solutions en reseaux
 
 You or your network administrators may wish to integrate Raspberry Pis more permanently into the school network. This is often a way to use existing hardware to connect to a Raspberry Pi, negating the need for extra monitors. Below are a number of ways of connecting to a Raspberry Pi using remote desktop software such as VNC and details on using PiNet as a solution to user accounts, shared folders and SD card problems.
 
