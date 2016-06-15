@@ -77,16 +77,16 @@ Tout d'abord, faire une sauvegarde du fichier de configuration par défaut puis 
   dhcp-range=10.0.0.2,10.0.0.250,255.255.255.0,12h
   dhcp-option=3,10.0.0.1
   ```
-  The first line tells `dnsmasq` to listen for DHCP requests on the Ethernet port of the Pi. The second line is specifying the range of IP addresses that can be given out. The third line provides the default gateway for the host computer (which won't actually be used here).
+  La première ligne indique `dnsmasq` pour écouter les demandes DHCP sur le port Ethernet du Pi. La deuxième ligne spécifie la plage d'adresses IP qui peuvent être donnés. La troisième ligne fournit la passerelle par défaut pour l'ordinateur hôte (qui ne sera pas réellement utilisé ici).
 
-1. Disconnect the Pi from the LAN and reboot by typing `sudo reboot`.
+1. Déconnectez le Pi du réseau local et redémarrez en tapant `sudo reboot`.
 
-## Step 5: Test the connection
+## Étape 5: Testez la connexion
 
-1. After the Pi boots back up, give it a minute or so, and you can go ahead and plug in the single Ethernet cable directly from the Pi to the host computer. The host computer should then be given an IP address which will be `10.0.0.X`, where X is a random number between 2 and 250.
-1. Test that there is a working connection by opening up a command prompt on the host computer (a Terminal on OSX and Linux), and enter the following command `ping 10.0.0.1`.
+1. Après le redémarrage de Pi, donnez-lui une minute, et vous pouvez aller de l'avant et de brancher le câble Ethernet directement du Pi à l'ordinateur hôte. L'ordinateur hôte doit alors donner une adresse IP qui sera `10.0.0.X`, où X est un nombre aléatoire compris entre 2 et 250.
+1. Vérifiez qu'il ya une connexion active en ouvrant une invite de commande sur l'ordinateur hôte (un terminal sur OSX et Linux), et entrez la commande suivante `ping 10.0.0.1`.
 
-  If you see `reply, reply, reply `then it's working. If you see request timed out, then something is wrong and you'll need to go back and double-check everything.
+  Si vous voyez `reply, reply, reply `alors ça fonctionne. Si vous voyez request timed out, quelque chose ne va pas et vous devez revenir en arrière et tout revérifier.
 
 1. You can now open up your VNC viewer on the host PC and connect it to the Pi. When prompted for the remote host enter   `10.0.0.1:1` and click **connect**. It could also be `10.0.0.1:0` depending on how you set it up in step 1.
 
