@@ -163,14 +163,14 @@ Si vous voyez `reply, reply, reply` alors ça fonctionne. Si vous voyez request 
 
 Vous devriez maintenant être en mesure d'ouvrir un navigateur Web sur l'ordinateur hôte et entrez `pi` dans la barre d'adresse pour accéder à la page de client VNC. 
 
-*Note: Windows users:* This may not work properly on Windows (you'll still need to use `10.0.0.1`), but if you install a package called `winbind` you'll be able to type the Raspberry Pi hostname into the browser. Usually the hostname is `raspberrypi`. The `winbind` package can be installed with the command below:
+*Note: Utilisateurs de Windows:* Cela peut ne pas fonctionner correctement sur Windows (vous aurez toujours besoin d'utiliser `10.0.0.1`), mais si vous installé `winbind` vous serez capable de taper le nom d'hôte Raspberry Pi dans le navigateur. Habituellement, le nom d'hôte est `raspberrypi`. Le paquet `winbind` peut être installé avec la commande ci-dessous:
 
 `sudo apt-get install winbind`
 
-However, it should be fine on OSX, Ubuntu, and any other flavour of Linux.
+Cependant, il devrait fonctionner sur OSX, Ubuntu, et toutes les autres parfums de Linux.
 
 ![](images/vnc_firefox.png)
 
-You will be prompted for the password that you specified when setting up the VNC server.
+Vous serez invité à entrer le mot de passe que vous avez spécifié lors de la configuration du serveur VNC.
 
-*Note: an error has occasionally been observed on the first time that you try to connect; this is possibly caused by the proxy starting before the VNC server socket is open. If you see this the top bar goes red. Just hit refresh (F5), enter the password again and it should work.*
+*Note: une erreur a parfois été observée sur la première fois que vous essayez de vous connecter; cela peut-être causé par le proxy qui démarre avant que le socket serveur VNC soit ouvert. Si vous voyez ceci la barre supérieure devient rouge. Rafraîchisser juste en appuyant sur (F5), entrez le mot de passe à nouveau et cela devrait fonctionner.*
