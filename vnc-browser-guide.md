@@ -33,7 +33,7 @@ Ce système fonctionne sur tous les navigateurs web compatible HTML5, notamment 
 
 1. Ensuite, exécutez TightVNC Server, qui vous invite à entrer un mot de passe et une option de visiualisation du mot de passe , en tapant `tightvncserver` et appuyer sur **Entrer** sur le clavier.
 
-1. Now let's get the HTML5 VNC client. Enter the following commands and press **Enter** at the end of each line:
+1. Maintenant, nous allons le client VNC HTML5. Entrez les commandes suivantes et appuyez sur "Entrée" à la fin de chaque ligne:
 
 	```
 	cd /usr/local/share/
