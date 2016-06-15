@@ -43,11 +43,11 @@ Vous pouvez utiliser les moniteurs de l'école avec le Raspberry Pi. Vous aurez 
 
   ![](images/HDMI-Connector.jpg)
 
-- **DVI** If the monitors in your classroom do not have a HDMI connector, but have a DVI connector, then you can purchase HDMI to DVI cables. This is an additional cost, but these cables are relatively inexpensive and replace the need for HDMI cables.
+- **DVI** Si les moniteurs de votre salle de classe ne disposent pas d'un connecteur HDMI, mais d'un connecteur DVI, vous pouvez acheter des câbles HDMI DVI. C'est un coût supplémentaire, mais ces câbles sont relativement peu coûteux.
 
   ![](images/Dvi-cable.jpg)
 
-- **VGA** If you have equipment that is more than a few years old, then it is likely that the monitors will have VGA connectors. In this case you will need to get a VGA adaptor for the Raspberry Pi at an additional cost. It is recommended that before you make this choice you consider some of the solutions below for using the school network to connect to the Pis instead.
+- **VGA** Si vous avez du matériel plus anciens, alors il est probable que les moniteurs soient dotés de connecteurs VGA. Dans ce cas, vous aurez besoin d'un adaptateur VGA. Il est recommandé avant de faire ce choix d'essayez certaines des solutions ci-dessous, comme l'utilisation du réseau scolaire afin de se connecter au Pis.
 
   ![](images/Vga-cable.jpg)
 
