@@ -1,10 +1,10 @@
 # Connexion à distance à un Raspberry Pi à partir d'un ordinateur en réseau
 
-## Etape 1: Configurer et installer VNC server sur Raspberry Pi
+## Etape 1: Configurez et installez VNC server sur Raspberry Pi
 
 Installez le logiciel VNC Server sur Pi et le logiciel de VNC Viewer sur l'ordinateur hôte (qui montrera le bureau Pi).
 
-1. Sur votre Raspberry Pi installer le package TightVNC:
+1. Sur votre Raspberry Pi installez le package TightVNC:
 
   ```
   sudo apt-get install tightvncserver
@@ -21,7 +21,7 @@ Installez le logiciel VNC Server sur Pi et le logiciel de VNC Viewer sur l'ordin
   vncserver :0 -geometry 1024x768 -depth 24
   ```
 
-## Step 2: Install a VNC client on a computer
+## Étape 2: Installez un client VNC sur un ordinateur
 
 1. Now, on your computer, install and run the VNC client:
 
