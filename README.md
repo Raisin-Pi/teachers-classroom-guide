@@ -74,10 +74,10 @@ L'utilisation du Raspberry Pi dans une salle de classe peut également offrir di
 
 ## Ressources pédagogiques
 
-With qualified teachers among our staff we are producing teaching materials, including full schemes of work that are cross-curricular, engaging, and satisfy the curriculum. They are published under a Creative Commons licence so that teachers can use them however they see fit.
+Avec des professeurs qualifiés parmi notre personnel, nous produisons des outils d'enseignement, y compris des parcours complets d'exercices transversaux. Ils sont publiés sous une licence Creative Commons afin que les enseignants puissent les utiliser comme bon leur semble.
 
-- [Teach - Raspberry Pi Teaching Resources](http://www.raspberrypi.org/resources/teach/)
-- A great place to start is with our [Getting Started Lesson](http://www.raspberrypi.org/learning/getting-started-with-raspberry-pi-lesson/)
+- [Enseigner - Ressources pédagogiques Raspberry Pi](http://www.raspberrypi.org/resources/teach/)
+- Un excellent moyen commencer est notre [Leçon de prise en main](http://www.raspberrypi.org/learning/getting-started-with-raspberry-pi-lesson/)
 
 ## Training
 
