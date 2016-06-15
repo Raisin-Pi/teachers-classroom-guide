@@ -1,6 +1,6 @@
-# Remote Desktop to a Raspberry Pi from a networked computer
+# Connexion à distance à un Raspberry Pi à partir d'un ordinateur en réseau
 
-## Step 1: Set up and install VNC server on Raspberry Pi
+## Etape 1: Configurer et installer VNC server sur Raspberry Pi
 
 Install the VNC server software on Pi and the VNC viewer software on the host computer (which will show the Pi desktop).
 1. On your Raspberry Pi install the TightVNC package:
