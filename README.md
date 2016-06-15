@@ -37,9 +37,9 @@ Une autre caractéristique intéressante du Raspberry Pi dans l'enseignement est
 
 ## Solutions pour moniteur
 
-You could use existing school monitors with Raspberry Pis. You will need to check the cables to see if they have the correct connectors for the Pi.
+Vous pouvez utiliser les moniteurs de l'école avec le Raspberry Pi. Vous aurez besoin de vérifier les câbles pour voir si ils ont les connecteurs appropriés pour le Pi.
 
-- **HDMI** The Raspberry Pi outputs through a HDMI connector to a TV or monitor. Most modern TVs, monitors, and projectors use HDMI. However this is not always the case in classrooms, where technology is a few years older.
+- **HDMI** La sortie du Raspberry Pi via un câble HDMI reliée à un téléviseur ou un moniteur. La plupart des téléviseurs modernes, les moniteurs et projecteurs utilisent le HDMI. Cependant, ce n'est pas toujours le cas dans les salles de classe, où la technologie est un peu plus ancienne.
 
   ![](images/HDMI-Connector.jpg)
 
