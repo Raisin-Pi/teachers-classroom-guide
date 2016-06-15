@@ -55,7 +55,7 @@ Vous pouvez utiliser les moniteurs de l'école avec le Raspberry Pi. Vous aurez 
 
 Vous ou vos administrateurs réseau peuvent intégrer le Raspberry Pi de façon plus permanente dans le réseau scolaire. C'est une façon d'utiliser le matériel existant pour se connecter à un Raspberry Pi, évitant la nécessité de moniteurs supplémentaires. Voici un certain nombre de façons de se connecter à un Raspberry Pi en utilisant un logiciel de bureau à distance tels que VNC et les détails sur l'utilisation de PINET comme solution pour gérer les comptes utilisateurs, les dossiers partagés et les problèmes de carte SD.
 
-### Remote Desktop from classroom computers to Raspberry Pis
+### Bureau à distance à partir des ordinateurs de la  classe vers les Raspberry Pis
 
 - [Using VNC to connect to a Raspberry Pi from a desktop computer](vnc-classroom-guide.md)
 - [Using VNC through a browser window](vnc-browser-guide.md)
