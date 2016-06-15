@@ -21,17 +21,17 @@ Ce système fonctionne sur tous les navigateurs web compatible HTML5, notamment 
 - Opera 11
 - IE 9
 
-## Step 1: Setting up the server on a Raspberry Pi
+## Etape 1: Configuration du serveur sur un Raspberry Pi
 
-1. Start with a fresh install of Raspbian and log in as the default `pi` user. You can use the command line interface for this guide.
-1. Install the following packages (TightVNC server and screen). Run these commands from the terminal:
+1. Commencez avec une nouvelle installation de Raspbian et connectez-vous en tant qu'utilisateur "pi" par défaut. Vous pouvez utiliser l'interface de ligne de commande pour ce guide.
+1. Installez les paquets suivants (tightvncserver et screen).Exécuter ces commandes à partir du terminal:
 
 	```
 	sudo apt-get update
 	sudo apt-get install tightvncserver screen -y
 	```
 
-1. Next run TightVNC server, which will prompt you to enter a password and an optional view-only password, by typing `tightvncserver` and pressing **Enter** on the keyboard.
+1. Ensuite, exécutez TightVNC Server, qui vous invite à entrer un mot de passe et une option de visiualisation du mot de passe , en tapant `tightvncserver` et appuyer sur **Entrer** sur le clavier.
 
 1. Now let's get the HTML5 VNC client. Enter the following commands and press **Enter** at the end of each line:
 
