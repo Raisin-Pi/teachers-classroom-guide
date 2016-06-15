@@ -57,8 +57,8 @@ Vous ou vos administrateurs réseau peuvent intégrer le Raspberry Pi de façon 
 
 ### Bureau à distance à partir des ordinateurs de la  classe vers les Raspberry Pis
 
-- [Using VNC to connect to a Raspberry Pi from a desktop computer](vnc-classroom-guide.md)
-- [Using VNC through a browser window](vnc-browser-guide.md)
+- [Utilisation de VNC pour se connecter à un Raspberry Pi à partir d'un ordinateur de bureau](vnc-classroom-guide.md)
+- [Utilisation de VNC par une fenêtre de navigateur](vnc-browser-guide.md)
 
 ### PiNet
 PiNet is a free centralised user accounts and file storage system for Raspberry Pi classrooms. With it, all Raspberry Pis load off a central server and any student can sit down at any Raspberry Pi in the classroom and login. It was designed to be incredibly easy for teachers to setup and use. More details can be found on the [PiNet website](http://pinet.org.uk/).   
