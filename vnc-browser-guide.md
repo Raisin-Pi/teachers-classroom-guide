@@ -10,9 +10,9 @@ Voici un exemple du produit final sur Windows / IE:
 
 ![](images/vnc_ie.png)
 
-## What will it work on?
+## Que faut-il faire ?
 
-This system will work on any HTML5-compliant web browser, in particular these browser versions or later:
+Ce système fonctionne sur tous les navigateurs web compatible HTML5, notamment ces versions de navigateur ou plus récente:
 
 - Chrome 8
 - Firefox 4
