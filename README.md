@@ -85,9 +85,9 @@ Ici, à la Fondation Raspberry Pi nous offrons depuis peu de temps des formation
 
 - [Picademy](http://www.raspberrypi.org/picademy)
 
-## Asking the community
+## Demander à la communauté
 
-The Raspberry Pi Community is ready, willing and in most cases able to help schools teach Computing with Raspberry Pis. They are an often untapped source of experience and resources. If, after reading through this guide, you still cannot find solutions to your classroom problems, then it is recommended that you reach out to the community.
+La Communauté Raspberry Pi est prête, volontaire et dans la plupart des cas en mesure d'aider les écoles à enseigner l'informatique avec le Raspberry Pi. Ils sont une source d'expériences et de ressources souvent inexploités . Si, après avoir lu ce guide, vous ne trouvez pas les solutions à vos problèmes en classe, alors il est recommandé de tendre la main à la communauté.
 
 > When I started to use Raspberry Pis in my classroom in late 2012, the monitors were all VGA. At that time there was not a converter cable guaranteed to work, so I put a message out on Twitter asking if any local businesses were getting rid of any DVI monitors. Within a couple of minutes I had a response, and that weekend I collected the monitors I needed for free.
 
