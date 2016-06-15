@@ -88,6 +88,6 @@ Tout d'abord, faire une sauvegarde du fichier de configuration par défaut puis 
 
   Si vous voyez `reply, reply, reply `alors ça fonctionne. Si vous voyez request timed out, quelque chose ne va pas et vous devez revenir en arrière et tout revérifier.
 
-1. You can now open up your VNC viewer on the host PC and connect it to the Pi. When prompted for the remote host enter   `10.0.0.1:1` and click **connect**. It could also be `10.0.0.1:0` depending on how you set it up in step 1.
+1. Vous pouvez maintenant ouvrir votre VNC viewer sur le PC hôte et le connecter au Pi. Lorsque vous êtes dans l'invite d'hôte distant entrez   `10.0.0.1:1` et cliquez sur **connect**. Cela pourrait être également `10.0.0.1:0` selon la façon dont vous l'avez configuré à l'étape 1.
 
-  You'll be prompted for the password that you chose during step 1; after that you'll see the Pi desktop and will be able to get going with Scratch or whatever program you need. Remember that 3D games like Minecraft are not going to work using this method, as those draw their image directly to the local screen memory and will be ignored by VNC. You'll just see an empty window.
+  Vous serez invité à entrer le mot de passe que vous avez choisi lors de l'étape 1; ensuite, vous verrez le bureau Pi et serez en mesure d'utiliser Scratch ou le programme dont vous avez besoin. Rappelez-vous que les jeux 3D comme Minecraft ne vont pas fonctionner en utilisant cette méthode, car ceux-ci envoient directement leur image à l'écran local et seront ignorés par VNC. Vous verrez juste une fenêtre vide.
