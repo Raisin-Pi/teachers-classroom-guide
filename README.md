@@ -93,12 +93,12 @@ La Communauté Raspberry Pi est prête, volontaire et dans la plupart des cas en
 
 > La communauté Raspberry Pi est l'un des plus utiles avec laquelle j'ai été en contact. Utiliser les [forums](http://www.raspberrypi.org/forums) ou Twitter avec le hashtag `#raspberrypi` ou `#picademy` pourrait être aussi un moyen de trouver des solutions pour votre salle de classe. ~ Carrie Anne Philbin
 
-### The community page
+### La page de la communauté
 
-On our website we feature prominent people and organisations within our community who are doing great outreach work. It is a good starting point to learn more about Raspberry Pi.
-- [Official Community Page](http://www.raspberrypi.org/community/)
+Sur notre site, nous vous proposons des personnes et des organisations de premier plan au sein de notre communauté qui font de l'excellent travail de sensibilisation. C'est un bon départ pour en savoir plus à propos du Raspberry Pi.
+- [Page de la communauté officielle](http://www.raspberrypi.org/community/)
 
-### The forum
+### Le forum
 
-If you have a question, whatever your level or experience, then you can ask it on our forum. We have an education section especially set up for this. It is an extremely friendly forum, where someone will answer your question very quickly and politely. A number of our Raspberry Pi Certified Educators are active on this forum, helping to answer questions and share good practice.
-- [Education Section of Forum](http://www.raspberrypi.org/forums/viewforum.php?f=17&sid=f9cb8df1edfa3781e9a7afa26aaa4e42)
+Si vous avez une question, quel que soit votre niveau ou expérience, alors vous pouvez poser une question sur notre forum. Nous avons une section éducation spécialement mis en place pour cela. C'est un forum très convivial, où quelqu'un va répondre à votre question très rapidement et poliment. Un certain nombre de nos éducateurs certifiés Raspberry Pi sont actifs sur ce forum, en répondant à des questions et partageant les bonnes expériences.
+- [Section éducation du Forum](http://www.raspberrypi.org/forums/viewforum.php?f=17&sid=f9cb8df1edfa3781e9a7afa26aaa4e42)
