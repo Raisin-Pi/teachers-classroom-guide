@@ -66,9 +66,9 @@ PINET est un système libre qui centralise les comptes d'utilisateurs et le stoc
 ## Gestion d'un set pour la classe
 - [Comment faire un jeu de cartes SD pour la classe ](class-sd-cards.md)
 
-## Cross-curricular opportunities
+## Compétences transversales
 
-Using Raspberry Pis in a classroom can also offer different ways of teaching and learning. It opens up the possibility of seeing computing more as a creative and maker-style activity. Computing can be a truly cross-curricular subject in Art, Science and Technology. Raspberry Pi can offer more than you realise in education.
+L'utilisation du Raspberry Pi dans une salle de classe peut également offrir différentes méthodes d'enseignement et d'apprentissage. Il ouvre la possibilité de voir l'informatique plus comme une activité créative et constructive. L'informatique peut être un sujet véritablement transdisciplinaire dans l'art, la science et la technologie. Le Raspberry Pi peut offrir plus que vous ne l'imaginez dans l'éducation.
 
 - [What does a good computing classroom look like? By Clive Beale](http://www.raspberrypi.org/what-does-a-good-computing-classroom-look-like)
 
