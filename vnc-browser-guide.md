@@ -40,7 +40,7 @@ Ce système fonctionne sur tous les navigateurs web compatible HTML5, notamment 
 	sudo git clone git://github.com/kanaka/noVNC
 	```
 
-1. We just need to make a small adjustment to some of the files here. The folder we've just downloaded will be served out as a HTTP root for the Pi, so we just need to ensure there is an index page. This will allow the host computer to access the VNC client software.
+1. Nous avons juste besoin de faire un petit ajustement de certains des fichiers.  Le dossier que nous venons de téléchargé sera utilisé comme racine HTTP pour le Pi, donc nous avons juste besoin de nous assurer qu'il y a bien une page index. Cela permettra à l'ordinateur hôte d'accéder au logiciel client VNC.
 	
 	```
 	cd noVNC
