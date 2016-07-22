@@ -1,4 +1,4 @@
-# Un guide enseignant pour l'utilisation du Raspberry Pi en classe
+# Un guide animateur/enseignant pour l'utilisation du Raspberry Pi en classe
 
 ![](cover.png)
 
@@ -8,9 +8,9 @@ Si vous cherchez à vous servir des Raspberry Pis en classe, ce guide vous prés
 
 Si vous ne connaissez pas déjà l'outil, avant de continuer la lecture, il vous est conseillé de commencer par [ce guide qui apprend simplement à mettre en place un Raspberry Pi](getting-started-guide.md) pour la première fois.
 
-Une des utilisations du Raspberry Pi dans la salle de classe est comme périphérique autonome que les élèves peuvent utiliser en dehors du réseau scolaire pour créer des programmes et des projets électroniques, sans crainte de casser du matériel coûteux ou de faire sauter un réseau scolaire. C'est un environnement qui permet la liberté de l'échec, et c'est en échouant que les élèves apprennent. Si un fichier système est endommagé, vous pouvez toujours recommencer avec une nouvelle image de la carte SD. Si vous cassé une LED, cela n'a pas d'importance.
+Une des utilisations du Raspberry Pi dans la salle de classe est comme périphérique autonome que les enfants peuvent utiliser en dehors du réseau scolaire pour créer des programmes et des projets électroniques, sans crainte de casser du matériel coûteux ou de faire sauter un réseau scolaire. C'est un environnement qui permet la liberté de l'échec, et c'est en échouant que les enfants apprennent. Si un fichier système est endommagé, vous pouvez toujours recommencer avec une nouvelle image de la carte SD. Si vous cassé une LED, cela n'a pas d'importance.
 
-Une autre caractéristique intéressante du Raspberry Pi dans l'enseignement est qu'il intrigue, et les élèves posent des questions sur le matériel. Pourquoi est-ce un ordinateur? Comment fonctionne-t-il ? Quels sont les périphériques d'entrée et de sortie? Où stocke-t-il son logiciel? etc.
+Une autre caractéristique intéressante du Raspberry Pi dans l'enseignement est qu'il intrigue, et les enfants posent des questions sur le matériel. Pourquoi est-ce un ordinateur? Comment fonctionne-t-il ? Quels sont les périphériques d'entrée et de sortie? Où stocke-t-il son logiciel? etc.
 
 ## Matériel nécessaire
 
@@ -18,7 +18,7 @@ Une autre caractéristique intéressante du Raspberry Pi dans l'enseignement est
 
 ### De quoi aurez-vous besoin pour un parc autonome de Raspberry Pi pour la classe ?
 
-- Plusieurs Raspberry Pi; un ou deux peuvent servir aux travaux des élèves. Un [Model B](https://www.raspberrypi.org/products/model-b/), [Model B+](https://www.raspberrypi.org/products/model-b-plus/) ou un [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) conviendra pour cet exercice.
+- Plusieurs Raspberry Pi; un ou deux peuvent servir aux travaux des enfants. Un [Model B](https://www.raspberrypi.org/products/model-b/), [Model B+](https://www.raspberrypi.org/products/model-b-plus/) ou un [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) conviendra pour cet exercice.
 - Suffisament de [cartes SD (Model B) ou de cartes microSD ](http://swag.raspberrypi.org/collections/frontpage/products/noobs-8gb-sd-card) (Model B+ et Pi 2) pour chaque Pi.
 - Claviers et souris USB pour chaque Pi.
 - [Alimentation Micro USB](http://swag.raspberrypi.org/collections/pi-kits/products/raspberry-pi-universal-power-supply) pour chaque Pi.
@@ -61,7 +61,7 @@ Vous ou vos administrateurs réseau peuvent intégrer le Raspberry Pi de façon 
 - [Utilisation de VNC par une fenêtre de navigateur](vnc-browser-guide.md)
 
 ### PiNet
-PINET est un système libre qui centralise les comptes d'utilisateurs et le stockage de fichiers pour les salles de classe Raspberry Pi. Avec elle, tous les Raspberry Pi se connecte à un serveur central et tout étudiant peut s'asseoir à tout Raspberry Pi dans la salle de classe et se connecter. Il a été conçu pour être incroyablement simple à installer et à utiliser pour les enseignants. Plus de détails peuvent être trouvés sur le site [PiNet](http://pinet.org.uk/).   
+PINET est un système libre qui centralise les comptes d'utilisateurs et le stockage de fichiers pour les salles de classe Raspberry Pi. Avec elle, tous les Raspberry Pi se connecte à un serveur central et tout étudiant peut s'asseoir à tout Raspberry Pi dans la salle de classe et se connecter. Il a été conçu pour être incroyablement simple à installer et à utiliser pour les animateurs/enseignants. Plus de détails peuvent être trouvés sur le site [PiNet](http://pinet.org.uk/).   
 
 ## Gestion d'un set pour la classe
 - [Comment faire un jeu de cartes SD pour la classe ](class-sd-cards.md)
@@ -74,14 +74,14 @@ L'utilisation du Raspberry Pi dans une salle de classe peut également offrir di
 
 ## Ressources pédagogiques
 
-Avec des professeurs qualifiés parmi notre personnel, nous produisons des outils d'enseignement, y compris des parcours complets d'exercices transversaux. Ils sont publiés sous une licence Creative Commons afin que les enseignants puissent les utiliser comme bon leur semble.
+Avec des professeurs qualifiés parmi notre personnel, nous produisons des outils d'enseignement, y compris des parcours complets d'exercices transversaux. Ils sont publiés sous une licence Creative Commons afin que les animateurs/enseignants puissent les utiliser comme bon leur semble.
 
 - [Enseigner - Ressources pédagogiques Raspberry Pi](http://www.raspberrypi.org/resources/teach/)
 - Un excellent moyen commencer est notre [Leçon de prise en main](http://www.raspberrypi.org/learning/getting-started-with-raspberry-pi-lesson/)
 
 ## Formation
 
-Ici, à la Fondation Raspberry Pi nous offrons depuis peu de temps des formations GRATUITES pour les enseignants à l'Académie Raspberry Pi ou Picademie. Pour en savoir plus, cliquez sur les liens ci-dessous:
+Ici, à la Fondation Raspberry Pi nous offrons depuis peu de temps des formations GRATUITES pour les animateurs/enseignants à l'Académie Raspberry Pi ou Picademie. Pour en savoir plus, cliquez sur les liens ci-dessous:
 
 - [Picademy](http://www.raspberrypi.org/picademy)
 
