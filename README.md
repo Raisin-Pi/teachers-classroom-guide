@@ -102,3 +102,12 @@ Sur notre site, nous vous proposons des personnes et des organisations de premie
 
 Si vous avez une question, quel que soit votre niveau ou expérience, alors vous pouvez poser une question sur notre forum. Nous avons une section éducation spécialement mis en place pour cela. C'est un forum très convivial, où quelqu'un va répondre à votre question très rapidement et poliment. Un certain nombre de nos éducateurs certifiés Raspberry Pi sont actifs sur ce forum, en répondant à des questions et partageant les bonnes expériences.
 - [Section éducation du Forum](http://www.raspberrypi.org/forums/viewforum.php?f=17&sid=f9cb8df1edfa3781e9a7afa26aaa4e42)
+
+### Licence
+
+Sauf autres précisions, tout ce qui se trouve dans cet répertoire est couvert par la licence suivante :
+![Creative Commons Attribution 4.0 International Licence](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+
+***Un guide animateur/enseignant pour l'utilisation du Raspberry Pi en classe (v.o. Teacher's classroom guide)*** par la [Raspberry Pi Foundation](http://www.raspberrypi.org) est crée sous une licence [Creative Commons Attribution 4.0 International Licence](http://creativecommons.org/licenses/by-sa/4.0/).
+
+D'après un travail paru sur https://github.com/Raisin-Pi/teachers-classroom-guide fait par Lionel Warnault pour le projet [D-Clics Numériques](http://d-clicsnumeriques.org/)
