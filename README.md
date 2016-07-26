@@ -28,7 +28,8 @@ Une autre caractéristique intéressante du Raspberry Pi dans l'enseignement est
 ### D'autres éléments dont vous aurez besoin pour un ensemble de classe Raspberry Pi en réseau.
 
 - Une connection par câbles Ethernet
-- Ou un dongle WiFi (comme celui-ci](http://thepihut.com/products/usb-wifi-adapter-for-the-raspberry-pi) de [The Pi Hut](http://thepihut.com/))
+- Ou, si vous n'avez pas de Raspberry Pi 3, un dongle WiFi (comme celui-ci](http://thepihut.com/products/usb-wifi-adapter-for-the-raspberry-pi) de [The Pi Hut](http://thepihut.com/)) si vous .
+- Sinon une connexion WiFi.
 
 ### Accessoires en option
 
