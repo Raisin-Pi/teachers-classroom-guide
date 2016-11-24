@@ -31,7 +31,7 @@ Ce système fonctionne sur tous les navigateurs web compatible HTML5, notamment 
 	sudo apt-get install tightvncserver screen -y
 	```
 
-1. Ensuite, exécutez TightVNC Server, qui vous invite à entrer un mot de passe et une option de visiualisation du mot de passe , en tapant `tightvncserver` et appuyer sur **Entrer** sur le clavier.
+1. Ensuite, exécutez TightVNC Server, qui vous invite à entrer un mot de passe et une option de visualisation du mot de passe, en tapant `tightvncserver` et appuyer sur **Entrer** sur le clavier.
 
 1. Maintenant, nous allons le client VNC HTML5. Entrez les commandes suivantes et appuyez sur "Entrée" à la fin de chaque ligne:
 
@@ -89,7 +89,7 @@ Avec le côté serveur terminée, vous devez maintenant télécharger un script 
 
 1. Maintenant, redémarrez votre Raspberry Pi en tapant `sudo reboot` et les services démarreront automatiquement. Lorsque le Pi a redémarré, vous devriez maintenant être en mesure d'entrer l'adresse IP du Raspberry Pi dans le navigateur Web de l'ordinateur hôte. Vous serez invité à entrer le mot de passe que vous avez spécifié lors de la configuration du serveur VNC.
 
-	*Note: une erreur a parfois été observée sur la première fois que vous essayez de vous connecter; cela peut-être causé par le proxy qui démarre avant que le socket serveur VNC soit ouvert. Si vous voyez ceci la barre supérieure devient rouge. Rafraîchisser juste en appuyant sur (F5), entrez le mot de passe à nouveau et cela devrait fonctionner.*
+	*Note: une erreur a parfois été observée sur la première fois que vous essayez de vous connecter; cela peut-être causé par le proxy qui démarre avant que le socket serveur VNC soit ouvert. Si vous voyez ceci la barre supérieure devient rouge. Rafraîchissez juste en appuyant sur (F5), entrez le mot de passe à nouveau et cela devrait fonctionner.*
 
 ## Étape 3: Mode maître et esclave
 
@@ -111,7 +111,7 @@ Tout d'abord, nous aurons besoin d'installer un logiciel de plus sur le Pi. Nous
 	sudo nano /etc/network/interfaces
 	```
 
-1. Trouvez la ligne suivante `iface eth0 inet dhcp`, ajouter un symbole dièze au début de la ligne pour la désactiver, puis ajouter les quatre lignes indiquées ci-dessous.
+1. Trouvez la ligne suivante `iface eth0 inet dhcp`, ajouter un symbole dièse au début de la ligne pour la désactiver, puis ajouter les quatre lignes indiquées ci-dessous.
 
 	```
 	# iface eth0 inet dhcp
@@ -123,7 +123,7 @@ Tout d'abord, nous aurons besoin d'installer un logiciel de plus sur le Pi. Nous
 
 1. Appuyez sur "Ctrl" et "O" suivie par "Entrer" pour sauver, puis "Ctrl" et "X" pour quitter. Le Raspberry Pi va maintenant avoir une adresse statique `10.0.0.1`.
 
-1. Ensuite configurez `dnsmasq` (Que vous avez installé précédemment) pour donner des adresses IP. Nous allons créér un fichier de configuration pour le service `dnsmasq`, donc nous allons faire d'abord une sauvegarde du fichier de configuration par défaut puis enregistrez le notre à sa place:
+1. Ensuite configurez `dnsmasq` (Que vous avez installé précédemment) pour donner des adresses IP. Nous allons créér un fichier de configuration pour le service `dnsmasq`, donc nous allons faire d'abord une sauvegarde du fichier de configuration par défaut puis enregistrez le nôtre à sa place:
 
 	```
 	cd /etc
@@ -167,10 +167,10 @@ Vous devriez maintenant être en mesure d'ouvrir un navigateur Web sur l'ordinat
 
 `sudo apt-get install winbind`
 
-Cependant, il devrait fonctionner sur OSX, Ubuntu, et toutes les autres parfums de Linux.
+Cependant, il devrait fonctionner sur OSX, Ubuntu, et tous les autres parfums de Linux.
 
 ![](images/vnc_firefox.png)
 
 Vous serez invité à entrer le mot de passe que vous avez spécifié lors de la configuration du serveur VNC.
 
-*Note: une erreur a parfois été observée sur la première fois que vous essayez de vous connecter; cela peut-être causé par le proxy qui démarre avant que le socket serveur VNC soit ouvert. Si vous voyez ceci la barre supérieure devient rouge. Rafraîchisser juste en appuyant sur (F5), entrez le mot de passe à nouveau et cela devrait fonctionner.*
+*Note: une erreur a parfois été observée sur la première fois que vous essayez de vous connecter; cela peut-être causé par le proxy qui démarre avant que le socket serveur VNC soit ouvert. Si vous voyez ceci la barre supérieure devient rouge. Rafraîchissez juste en appuyant sur (F5), entrez le mot de passe à nouveau et cela devrait fonctionner.*
