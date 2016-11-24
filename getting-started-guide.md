@@ -1,12 +1,12 @@
 # Débuter avec le Raspberry Pi
 
-Vous avez un Raspberry Pi, félicitations! Je suis sûr que vous brûler d'envie de commencer à créer vos propres projets. Alors qu'attendez vous ? Suivez toutes les étapes ci-dessous.
+Vous avez un Raspberry Pi, félicitations! Je suis sûr que vous brûlez d'envie de commencer à créer vos propres projets. Alors qu'attendez-vous ? Suivez toutes les étapes ci-dessous.
 
 ## Etape 1: Assurez-vous que vous avez tout ce dont vous avez besoin
 
 Avant de commencer, vérifiez que vous avez toutes les pièces dont vous avez besoin:
 
-### Elements requis :
+### Eléments requis :
 
 - Un Raspberry Pi (soit un [Model B](http://www.raspberrypi.org/product/model-b/) ou un  [Model B+](http://www.raspberrypi.org/product/model-b-plus/))
 
@@ -24,9 +24,9 @@ Avant de commencer, vérifiez que vous avez toutes les pièces dont vous avez be
 	- Tout clavier et souris USB standard fonctionnera avec votre Raspberry Pi.
 	
 - Alimentation
-	- Utilisez [une alimentation de 5V micro USB](http://swag.raspberrypi.org/collections/pi-kits/products/raspberry-pi-universal-power-supply) pour votre Raspberry Pi. Veillez à ce que quel que soit l'alimentation que vous utilisez, les sorties soient au moins de 5V.; une puissance insuffisante entraînera un disfonctionnement de votre Pi.
+	- Utilisez [une alimentation de 5V micro USB](http://swag.raspberrypi.org/collections/pi-kits/products/raspberry-pi-universal-power-supply) pour votre Raspberry Pi. Veillez à ce que quel que soit l'alimentation que vous utilisez, les sorties soient au moins de 5V; une puissance insuffisante entraînera un disfonctionnement de votre Pi.
 
-Vous pouvez acheter un kit à partir du magasin Swag Raspberry Pi pour vous aidez à démarrer [ici](http://swag.raspberrypi.org/collections/frontpage/products/b-raspberry-pi-starter-kit).
+Vous pouvez acheter un kit à partir du magasin Swag Raspberry Pi pour vous aider à démarrer [ici](http://swag.raspberrypi.org/collections/frontpage/products/b-raspberry-pi-starter-kit).
 
 ### Pas indispensable mais utile à avoir:
 
